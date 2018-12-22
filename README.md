@@ -8,6 +8,7 @@
 * Particle Filtering (bayesian Inference)
 * Neural Network
 # How to run
+python version 2.6
 1. Open a project
 2. go to its PDF file
-3. choose a question then type the command in the command prompt using python version 2.6 to test the implementation
+3. choose a question then type the command in the command prompt using python to test the implementation
